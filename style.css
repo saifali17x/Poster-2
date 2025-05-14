@@ -1,5 +1,5 @@
 html {
-  background-color: brown;
+  background-color: purple;
 }
 
 #poster {
@@ -11,15 +11,15 @@ html {
   text-align: center;
 }
 img {
-  border: 0.5px solid yellow;
+  border: 0.5px solid rgb(255, 0, 170);
 }
 
 h1 {
-  color: yellow;
+  color: white;
   text-align: center;
 }
 
 p {
   text-align: center;
-  color: yellow;
+  color: white;
 }
